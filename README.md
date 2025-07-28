@@ -21,10 +21,6 @@ I'm a Software Engineering student passionate about **Artificial Intelligence** 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-
-![Eman Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eman-fatima&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eman-fatima&layout=compact)](https://github.com/eman-fatima/github-readme-stats)
 
 ## 📫 Connect With Me
 
