@@ -26,11 +26,12 @@ I'm a Software Engineering student passionate about **Artificial Intelligence** 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eman-fatima-b83775284)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Eman-Fatimah&color=blue)
+
 
 
 
 <!--
+![Visitor Count](https://komarev.com/ghpvc/?username=Eman-Fatimah&color=blue)
 **Eman-Fatimah/Eman-Fatimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
